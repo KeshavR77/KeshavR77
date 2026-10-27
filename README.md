@@ -3,6 +3,9 @@
 ### [LLM Psychology](https://github.com/KryptoCrash/llm-psychology)
 Research on the mechanistic interpretability of conformity behavior in large language models.
 
+### [GPU Tokenization](https://github.com/yahya010/exacttok)
+Research on efficient and parallel tokenization on GPU, achieves performance of up to 20-50x faster than HF tokenizers/tiktoken. Specific contributions include qwen-tokenizer branch, optimizations via caching mechanisms and parallel pre-tokenization, and benchmarking against gigatoken. 
+
 ## Projects
 
 ### [Conceptial](https://conceptial.onrender.com/)
