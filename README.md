@@ -4,7 +4,7 @@
 Research on the mechanistic interpretability of conformity behavior in large language models.
 
 ### [GPU Tokenization](https://github.com/yahya010/exacttok)
-Research on efficient and parallel tokenization on GPU, achieves performance of up to 20-50x faster than HF tokenizers/tiktoken. 
+Contributed to research on efficient and parallel tokenization on GPU, achieves performance of up to 20-50x faster than HF tokenizers/tiktoken. 
 
 ## Projects
 
